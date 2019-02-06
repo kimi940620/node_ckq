@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kimi940620/node_ckq/issues"
   },
-  "homepage": "https://github.com/kimi940620/node_ckq#readme"
+  "homepage": "https://github.com/kimi940620/node_ckq#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
