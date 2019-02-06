@@ -1,0 +1,19 @@
+{
+  "name": "node_ckq",
+  "version": "1.0.0",
+  "description": "A very simple node repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimi940620/node_ckq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimi940620/node_ckq/issues"
+  },
+  "homepage": "https://github.com/kimi940620/node_ckq#readme"
+}
